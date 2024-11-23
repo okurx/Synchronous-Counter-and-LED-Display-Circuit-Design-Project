@@ -43,6 +43,6 @@ The targeted circuit design includes the following specifications:
 
 ## Simulation  
 Below is a screenshot of the simulation executed in **Proteus**:  
-![Simulation](simulation.png)  
+![Simulation](sim.png)  
 
 ---
