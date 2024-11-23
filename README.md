@@ -37,7 +37,7 @@ The targeted circuit design includes the following specifications:
 ---
 
 ## Pre-Design Work  
-![Preliminary Design](prework.jpeg)  
+![Preliminary Design](prework.png)  
 
 ---
 
