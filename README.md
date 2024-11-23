@@ -37,12 +37,17 @@ The targeted circuit design includes the following specifications:
 ---
 
 ## Pre-Design Work  
-![Preliminary Design](prework.png)  
+![Preliminary Design](prework.jpeg)  
 
 ---
 
 ## Simulation  
 Below is a screenshot of the simulation executed in **Proteus**:  
 ![Simulation](sim.png)  
+
+---
+
+## Notes  
+Due to time constraints, the **PCB design** could not be completed, and therefore, related visuals are not available.  
 
 ---
